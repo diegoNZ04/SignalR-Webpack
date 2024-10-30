@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eigyza7SOBA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\SignalRWebpack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samsung\\.nuget\\packages\\microsoft.typescript.msbuild\\5.6.2\\microsoft.typescript.msbuild.5.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}

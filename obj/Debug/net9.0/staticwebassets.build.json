@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "P5A2+yxpx6yecxhhH0DNe537O+fyPgakrU8+BZmcesE=",
+  "Source": "SignalRWebpack",
+  "BasePath": "_content/SignalRWebpack",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalRWebpack\\wwwroot",
+      "Source": "SignalRWebpack",
+      "ContentRoot": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\obj\\Debug\\net9.0\\compressed\\618ed6elqj-ov17jjhgbx.gz",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "main.ac54f5f9855090d9a24a#[.{fingerprint=ov17jjhgbx}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\wwwroot\\main.ac54f5f9855090d9a24a.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "f8u2id0blm",
+      "Integrity": "j2uj0KOWyRspCVsKhIzclzqcFhyoUtOSxRzWnPERams=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\wwwroot\\main.ac54f5f9855090d9a24a.js"
+    },
+    {
+      "Identity": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\obj\\Debug\\net9.0\\compressed\\7ezpwqo2ik-5ncx3ba354.gz",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "css/main.[chunckhash]#[.{fingerprint=5ncx3ba354}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\wwwroot\\css\\main.[chunckhash].css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "263jztqe30",
+      "Integrity": "NrJqJB9arWe/QG2ZuO4X8EZbai7KYr9CERWZOFa5SrI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\wwwroot\\css\\main.[chunckhash].css"
+    },
+    {
+      "Identity": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\obj\\Debug\\net9.0\\compressed\\irdqv1vypf-vf4msyfgaq.gz",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "index#[.{fingerprint=vf4msyfgaq}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "pqiwibxibs",
+      "Integrity": "4RQ2Mfo3shkY2XxxQbbwldXbwVVaEB7nrknCt5IqK3s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\wwwroot\\css\\main.[chunckhash].css",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "css/main.[chunckhash]#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ncx3ba354",
+      "Integrity": "v/KfW3W6h8HR74WCKVP1l0xEbNtIdR7jBNJRiq7Bfmo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\main.[chunckhash].css"
+    },
+    {
+      "Identity": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\wwwroot\\index.html",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vf4msyfgaq",
+      "Integrity": "+xO/5U8ZX8Aq1dPSHtEmJueeVVuVhSJKmTygwGY4zao=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\wwwroot\\main.ac54f5f9855090d9a24a.js",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "main.ac54f5f9855090d9a24a#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ov17jjhgbx",
+      "Integrity": "vMuGr4Q/lpfOOf1DRXFsj33GH560BEiOO+ApPITTtCg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.ac54f5f9855090d9a24a.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/main.[chunckhash].5ncx3ba354.css",
+      "AssetFile": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\obj\\Debug\\net9.0\\compressed\\7ezpwqo2ik-5ncx3ba354.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,004016064257"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NrJqJB9arWe/QG2ZuO4X8EZbai7KYr9CERWZOFa5SrI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 18:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"v/KfW3W6h8HR74WCKVP1l0xEbNtIdR7jBNJRiq7Bfmo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ncx3ba354"
+        },
+        {
+          "Name": "label",
+          "Value": "css/main.[chunckhash].css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v/KfW3W6h8HR74WCKVP1l0xEbNtIdR7jBNJRiq7Bfmo="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.[chunckhash].5ncx3ba354.css",
+      "AssetFile": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\wwwroot\\css\\main.[chunckhash].css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v/KfW3W6h8HR74WCKVP1l0xEbNtIdR7jBNJRiq7Bfmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 18:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ncx3ba354"
+        },
+        {
+          "Name": "label",
+          "Value": "css/main.[chunckhash].css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-v/KfW3W6h8HR74WCKVP1l0xEbNtIdR7jBNJRiq7Bfmo="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.[chunckhash].5ncx3ba354.css.gz",
+      "AssetFile": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\obj\\Debug\\net9.0\\compressed\\7ezpwqo2ik-5ncx3ba354.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NrJqJB9arWe/QG2ZuO4X8EZbai7KYr9CERWZOFa5SrI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 18:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ncx3ba354"
+        },
+        {
+          "Name": "label",
+          "Value": "css/main.[chunckhash].css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NrJqJB9arWe/QG2ZuO4X8EZbai7KYr9CERWZOFa5SrI="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.[chunckhash].css",
+      "AssetFile": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\obj\\Debug\\net9.0\\compressed\\7ezpwqo2ik-5ncx3ba354.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,004016064257"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NrJqJB9arWe/QG2ZuO4X8EZbai7KYr9CERWZOFa5SrI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 18:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"v/KfW3W6h8HR74WCKVP1l0xEbNtIdR7jBNJRiq7Bfmo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v/KfW3W6h8HR74WCKVP1l0xEbNtIdR7jBNJRiq7Bfmo="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.[chunckhash].css",
+      "AssetFile": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\wwwroot\\css\\main.[chunckhash].css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"v/KfW3W6h8HR74WCKVP1l0xEbNtIdR7jBNJRiq7Bfmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 18:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-v/KfW3W6h8HR74WCKVP1l0xEbNtIdR7jBNJRiq7Bfmo="
+        }
+      ]
+    },
+    {
+      "Route": "css/main.[chunckhash].css.gz",
+      "AssetFile": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\obj\\Debug\\net9.0\\compressed\\7ezpwqo2ik-5ncx3ba354.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NrJqJB9arWe/QG2ZuO4X8EZbai7KYr9CERWZOFa5SrI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 18:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NrJqJB9arWe/QG2ZuO4X8EZbai7KYr9CERWZOFa5SrI="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\obj\\Debug\\net9.0\\compressed\\irdqv1vypf-vf4msyfgaq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,003076923077"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "324"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4RQ2Mfo3shkY2XxxQbbwldXbwVVaEB7nrknCt5IqK3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 18:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+xO/5U8ZX8Aq1dPSHtEmJueeVVuVhSJKmTygwGY4zao=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+xO/5U8ZX8Aq1dPSHtEmJueeVVuVhSJKmTygwGY4zao="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+xO/5U8ZX8Aq1dPSHtEmJueeVVuVhSJKmTygwGY4zao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 18:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+xO/5U8ZX8Aq1dPSHtEmJueeVVuVhSJKmTygwGY4zao="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\obj\\Debug\\net9.0\\compressed\\irdqv1vypf-vf4msyfgaq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "324"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4RQ2Mfo3shkY2XxxQbbwldXbwVVaEB7nrknCt5IqK3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 18:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4RQ2Mfo3shkY2XxxQbbwldXbwVVaEB7nrknCt5IqK3s="
+        }
+      ]
+    },
+    {
+      "Route": "index.vf4msyfgaq.html",
+      "AssetFile": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\obj\\Debug\\net9.0\\compressed\\irdqv1vypf-vf4msyfgaq.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,003076923077"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "324"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4RQ2Mfo3shkY2XxxQbbwldXbwVVaEB7nrknCt5IqK3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 18:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"+xO/5U8ZX8Aq1dPSHtEmJueeVVuVhSJKmTygwGY4zao=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vf4msyfgaq"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+xO/5U8ZX8Aq1dPSHtEmJueeVVuVhSJKmTygwGY4zao="
+        }
+      ]
+    },
+    {
+      "Route": "index.vf4msyfgaq.html",
+      "AssetFile": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+xO/5U8ZX8Aq1dPSHtEmJueeVVuVhSJKmTygwGY4zao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 18:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vf4msyfgaq"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+xO/5U8ZX8Aq1dPSHtEmJueeVVuVhSJKmTygwGY4zao="
+        }
+      ]
+    },
+    {
+      "Route": "index.vf4msyfgaq.html.gz",
+      "AssetFile": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\obj\\Debug\\net9.0\\compressed\\irdqv1vypf-vf4msyfgaq.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "324"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4RQ2Mfo3shkY2XxxQbbwldXbwVVaEB7nrknCt5IqK3s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 18:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vf4msyfgaq"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4RQ2Mfo3shkY2XxxQbbwldXbwVVaEB7nrknCt5IqK3s="
+        }
+      ]
+    },
+    {
+      "Route": "main.ac54f5f9855090d9a24a.js",
+      "AssetFile": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\obj\\Debug\\net9.0\\compressed\\618ed6elqj-ov17jjhgbx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,000067467278"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14821"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j2uj0KOWyRspCVsKhIzclzqcFhyoUtOSxRzWnPERams=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 18:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vMuGr4Q/lpfOOf1DRXFsj33GH560BEiOO+ApPITTtCg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vMuGr4Q/lpfOOf1DRXFsj33GH560BEiOO+ApPITTtCg="
+        }
+      ]
+    },
+    {
+      "Route": "main.ac54f5f9855090d9a24a.js",
+      "AssetFile": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\wwwroot\\main.ac54f5f9855090d9a24a.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56879"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vMuGr4Q/lpfOOf1DRXFsj33GH560BEiOO+ApPITTtCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 18:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vMuGr4Q/lpfOOf1DRXFsj33GH560BEiOO+ApPITTtCg="
+        }
+      ]
+    },
+    {
+      "Route": "main.ac54f5f9855090d9a24a.js.gz",
+      "AssetFile": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\obj\\Debug\\net9.0\\compressed\\618ed6elqj-ov17jjhgbx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j2uj0KOWyRspCVsKhIzclzqcFhyoUtOSxRzWnPERams=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 18:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-j2uj0KOWyRspCVsKhIzclzqcFhyoUtOSxRzWnPERams="
+        }
+      ]
+    },
+    {
+      "Route": "main.ac54f5f9855090d9a24a.ov17jjhgbx.js",
+      "AssetFile": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\obj\\Debug\\net9.0\\compressed\\618ed6elqj-ov17jjhgbx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0,000067467278"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14821"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j2uj0KOWyRspCVsKhIzclzqcFhyoUtOSxRzWnPERams=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 18:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vMuGr4Q/lpfOOf1DRXFsj33GH560BEiOO+ApPITTtCg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ov17jjhgbx"
+        },
+        {
+          "Name": "label",
+          "Value": "main.ac54f5f9855090d9a24a.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vMuGr4Q/lpfOOf1DRXFsj33GH560BEiOO+ApPITTtCg="
+        }
+      ]
+    },
+    {
+      "Route": "main.ac54f5f9855090d9a24a.ov17jjhgbx.js",
+      "AssetFile": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\wwwroot\\main.ac54f5f9855090d9a24a.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "56879"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vMuGr4Q/lpfOOf1DRXFsj33GH560BEiOO+ApPITTtCg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 18:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ov17jjhgbx"
+        },
+        {
+          "Name": "label",
+          "Value": "main.ac54f5f9855090d9a24a.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vMuGr4Q/lpfOOf1DRXFsj33GH560BEiOO+ApPITTtCg="
+        }
+      ]
+    },
+    {
+      "Route": "main.ac54f5f9855090d9a24a.ov17jjhgbx.js.gz",
+      "AssetFile": "C:\\Users\\Samsung\\OneDrive\\Área de Trabalho\\Projetos\\SignalRWebpack\\obj\\Debug\\net9.0\\compressed\\618ed6elqj-ov17jjhgbx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"j2uj0KOWyRspCVsKhIzclzqcFhyoUtOSxRzWnPERams=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Oct 2024 18:58:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ov17jjhgbx"
+        },
+        {
+          "Name": "label",
+          "Value": "main.ac54f5f9855090d9a24a.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-j2uj0KOWyRspCVsKhIzclzqcFhyoUtOSxRzWnPERams="
+        }
+      ]
+    }
+  ]
+}
